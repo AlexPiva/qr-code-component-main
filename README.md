@@ -19,7 +19,7 @@ Preciso treinar muito ainda para pegar confiança e poder me candidatar a alguma
 
 - Website - [Alexandre de Castro Piva](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@seu nome de utilizador](https://www.twitter.com/yourusername)
+- Linkedin - [@seu nome de utilizador](linkedin.com/in/alexandre-piva-579076126)
 
 **Note: Apague esta nota e adicione/remove/edite linhas acima com base nos links que gostaria de partilhar.**
 
