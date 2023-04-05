@@ -1,6 +1,6 @@
 ### Ligações
 
-- URL da solução: [Adicione aqui o URL da solução](https://alexpiva.github.io/qr-code-component-main/)
+- URL da solução: https://alexpiva.github.io/qr-code-component-main/
 
 #### Construído com
 
@@ -17,7 +17,7 @@ Preciso treinar muito ainda para pegar confiança e poder me candidatar a alguma
 
 ## Autor
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AlexPiva](https://www.frontendmentor.io/profile/AlexPiva)
 - Linkedin - [Alexandre Piva](https://www.linkedin.com/in/alexandre-piva-579076126/)
 
 **Note: Apague esta nota e adicione/remove/edite linhas acima com base nos links que gostaria de partilhar.**
