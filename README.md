@@ -1,6 +1,6 @@
 ### Ligações
 
-- URL da solução: [Adicione aqui o URL da solução](https://alexpiva.github.io/qr-code-component-main/)
+- URL da solução: [https://alexpiva.github.io/qr-code-component-main/]
 
 #### Construído com
 
